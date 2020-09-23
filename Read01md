@@ -1,0 +1,11 @@
+- 1 - poetry new name_folder
+- 2 - cd name_folder
+- 3 - poetry shell
+- 4 - poetry install
+- 5 - touch name_folder/name_project.py  .gitignore
+- 6 - mv README.rst README.md
+- 7 - git init
+- 8 - git add .
+- 9 - git commit -am "initial"
+- 10 - git remote add origin url_of_GitHub
+- 11 - git push -u origin master
