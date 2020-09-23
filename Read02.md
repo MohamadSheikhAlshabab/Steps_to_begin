@@ -1,0 +1,11 @@
+- 1 - mkdir name_folder
+- 2 - cd name_folder
+- 3 - poetry init -n
+- 4 - poetry add name_of_library
+- 5 - poetry shell
+- 6 - git init
+- 7 - touch .gitignore
+- 8 - git add .
+- 9 - git commit -am "commit"
+- 10 - git remote add origin url_of_GitHub_of_project
+- 11 - git push -u origin master
